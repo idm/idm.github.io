@@ -1,8 +1,21 @@
 <html>
 <head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
 <title> {{ page.title }} </title>
 </head>
 <body>
-{{ content }}
+<div class="row-fluid">
+  <div class="span8">
+    {{ content }}
+  </div>
+  <div class="span4">
+    {% include yjc-rsb.html %}
+  </div>
+</div>
 </body>
 </html>
