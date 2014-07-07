@@ -1,1 +1,4 @@
-# idm.githib.io/yjc
+---
+layout: yjc
+title: YJC
+---
