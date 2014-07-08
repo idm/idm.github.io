@@ -8,12 +8,13 @@ CHANGE ONE OF THE USES OF "EXPERIENCE"
  
 Yvana has extensive skills in leading complex, high-profile reforms at school, state and national levels. She builds strong partnerships and develops and leads high-performing teams and strong organisational cultures.
 
-ADD PHOTO?
+ADD PHOTO? FLOAT RIGHT & WRAP TEXT?
 
 <h4>Qualifications</h4>
 ???
 
-<h4>Previous Roles</h4>
+<h4>Experience</h4>
+*	Director, Yvana Jones Consulting
 *	Assistant Director-General, Teaching and Learning, Education Queensland
 *	Deputy Director, Teaching and Learning, Queensland Studies Authority
 *	Manager, National Consistency in Curriculum Outcomes, Council of Australian Governments
