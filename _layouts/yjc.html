@@ -25,11 +25,35 @@ a.btn-danger:visited,
 a.btn-danger:link {
   color: white;
 }
+
+
+html, body {
+  height: 100%;
+}
+
+#wrap {
+  min-height: 100%;
+}
+
+#main {
+  overflow:auto;
+  padding-bottom:150px; /* needs to be bigger than footer height*/
+}
+
+.footer {
+  position: relative;
+  margin-top: -150px; /* negative value of footer height */
+  height: 150px;
+  clear:both;
+  padding-top:20px;
+} 
 </style>
 </head>
 
 <body>
 <hr style="border-top:16px solid #d9534f; margin-top:0px;"/>
+<div id="wrap">
+<div id="main">
 <div class="container">
 <h1 style="text-align:right;">LOGO</h1>
 </div>
@@ -110,5 +134,10 @@ a.btn-danger:link {
   </div>
 </div>
 </div>
+</div> <!-- main -->
+</div> <!-- wrap -->
+<footer class="footer">
+<h1>Footer</h1>
+</footer>
 </body>
 </html>
