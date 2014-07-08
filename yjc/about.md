@@ -2,7 +2,7 @@
 layout: yjc
 title: About
 ---
-<img src="../yvana.png" style="float:right;">
+<img src="yvana.png" style="float:right;">
 
 Yvana Jones has over thirty years of highly successful experience in Australian education as an accomplished teacher, principal and senior executive. Her work spans primary and secondary schools and systems across the government and independent school sectors.
 
