@@ -1,6 +1,6 @@
 ---
 layout: yjc
-title: High Impact Leadership
+title: Leadership
 ---
 Yvana Jones Consulting helps schools, regions and jurisdictions to develop leadership that results in motivated teachers, effective teaching, and improved learning and achievement through:
 
