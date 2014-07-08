@@ -13,11 +13,11 @@ Yvana has extensive skills in leading complex, high profile reforms at school, s
 
 <h4>Experience</h4>
 *	Director, Yvana Jones Consulting
-*	Assistant Director-General, Teaching and Learning, Education Queensland
+*	Assistant Director-General, Teaching & Learning, Education Queensland
 *	Deputy Director, Teaching and Learning, Queensland Studies Authority
 *	Manager, National Consistency in Curriculum Outcomes, Council of Australian Governments
 *	Executive Director (Schools), Mooloolaba District, Education Queensland
 *	Director, Office of the Director-General, Education Queensland
-*	Principal, Chancellor State School, Education Queenslan
-*	Principal, Chancellor State School, Education Queenslan
+*	Principal, Chancellor State School, Education Queensland
+*	Principal, Chancellor State School, Education Queensland
 *	Various teaching and support roles, Education Queensland
