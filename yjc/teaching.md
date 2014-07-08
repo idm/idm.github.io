@@ -1,4 +1,4 @@
 ---
 layout: yjc
-title: Teaching
+title: High Impact Teaching
 ---
