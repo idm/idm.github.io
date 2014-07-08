@@ -41,15 +41,17 @@ html, body {
 
 #main {
   overflow:auto;
-  padding-bottom:150px; /* needs to be bigger than footer height*/
+  padding-bottom:192px; /* needs to be bigger than footer height*/
 }
 
 .footer {
   position: relative;
-  margin-top: -150px; /* negative value of footer height */
-  height: 150px;
+  margin-top: -192px; /* negative value of footer height */
+  height: 192px;
   clear:both;
+/*
   padding-top:20px;
+*/
   background-color: gray;
   color: LightGray;
 } 
@@ -60,6 +62,15 @@ html, body {
   color:  LightGray;
 }
 
+.clients {
+  height: 64px;
+  background-color: green;
+  align: center;
+}
+
+img {
+  vertical-align: middle;
+}
 
 </style>
 </head>
@@ -151,6 +162,9 @@ html, body {
 </div> <!-- main -->
 </div> <!-- wrap -->
 <footer class="footer">
+<div class="clients">
+blah
+</div>
 <div class="container-fluid">
 <div class="row">
         <div class="col-md-3">
