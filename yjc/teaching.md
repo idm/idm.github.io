@@ -6,7 +6,7 @@ Yvana Jones Consulting helps equip teachers to conduct lessons that are clear an
 
 *	High impact teaching and explicit instruction
 *	Planning unambiguous lessons
-*	Guided practice ("We do...")
+*	Guided practice ("we do")
 *	Consolidating learning
 *	Rapid recall routines (RRRs)
 *	Differentiation
