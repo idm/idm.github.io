@@ -4,7 +4,7 @@ title: About
 ---
 ADD PHOTO? FLOAT RIGHT & WRAP TEXT?
 
-Yvana Jones has over thirty years of highly successful experience in Australian education as an accomplished teacher, principal and senior executive. Her work spans primary and secondary schools and system across the government and independent school sectors.
+Yvana Jones has over thirty years of highly successful experience in Australian education as an accomplished teacher, principal and senior executive. Her work spans primary and secondary schools and systems across the government and independent school sectors.
 
 Yvana has extensive skills in leading complex, high profile reforms at school, state and national levels. She builds strong partnerships and develops and leads high-performing teams and strong organisational cultures.
 
