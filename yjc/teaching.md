@@ -2,7 +2,7 @@
 layout: yjc
 title: High Impact Teaching
 ---
-Yvana Jones Consulting helps equip teachers to conduct lessons that are clear and concise, brisk and engaging, and deliver results. This is achieved through professional development that provides practical strategies to maximise student learning. Professional developmen t modules include:
+Yvana Jones Consulting helps equip teachers to conduct lessons that are clear and concise, brisk and engaging, and deliver results. This is achieved through professional development that provides practical strategies to maximise student learning. Professional development modules include:
 
 *	High impact teaching and explicit instruction
 *	Planning unambiguous lessons
