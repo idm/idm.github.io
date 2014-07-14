@@ -10,7 +10,8 @@ Yvana has extensive skills in leading complex, high profile reforms at school, s
 
 <h4>Qualifications</h4>
 *	???
-*	Accredited Facilitator, Emotions and Behaviours at Work ([EBW](http://www.ebwonline.com/))
+*	Accredited
+	*	Emotions and Behaviours at Work ([EBW](http://www.ebwonline.com/))
 *	Solutions-focused Level 3 Mentoring Coaching???
 
 <h4>Experience</h4>
