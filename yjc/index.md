@@ -2,7 +2,7 @@
 layout: yjc
 title: Yvana Jones Consulting
 ---
-Yvana Jones Consulting provides evidence-based, practical support for education aystems, leaders and teachers to improve student learning and achievement through:
+Yvana Jones Consulting provides evidence-based, practical support for education systems, school leaders and teachers to improve student learning and achievement through:
 
 *	[High Impact Teaching](teaching)
 *	[High Impact Leadership](leadership)

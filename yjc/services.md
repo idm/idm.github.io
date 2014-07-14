@@ -2,8 +2,9 @@
 layout: yjc
 title: Education Impact
 ---
-Yvana Jones Consulting provides evidence-based, practical support for teachers, school leaders and education policy-makers to improve student learning and achievement.
 
-*	[High Impact Teaching](teaching): equipping teachers to conduct lessons that are clear and concise, brisk and engaging, and deliver results
-*	[High Impact Leadership](leadership): helping schools, regions and jurisdictions to develop leadership that results in motivated teachers, effective teaching, and improved learning and achievement
-*	[High Impact Policy](policy): ...
+Yvana Jones Consulting provides evidence-based, practical support for education systems, school leaders and teachers to improve student learning and achievement through:
+
+*	[High Impact Teaching](teaching): helping teachers to reflect on their teaching practice by identifying strengths and areas for development, providing professional development that foster practical, evidence-based strategies to maximise student learning
+*	[High Impact Leadership](leadership): helping schools, regions and education systems to develop leadership that results in motivated teachers, effective teaching, and improved learning and achievement
+*	[High Impact Strategy](strategy): ...
