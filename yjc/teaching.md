@@ -2,7 +2,7 @@
 layout: yjc
 title: High Impact Teaching
 ---
-*HIGH IMPACT TEACHERS ARE REFLECTIVE TEACHERS. THEY FOCUS ON BUILDING POSITIVE RELATIONSHIPS WITH THEIR STUDENTS AND IMPROVING LEARNING. THEY ARE COMMITTED TO CONTINUOUS IMPROVEMENT AND TO MAKING A DIFFERENCE*
+**HIGH IMPACT TEACHERS ARE REFLECTIVE TEACHERS. THEY FOCUS ON BUILDING POSITIVE RELATIONSHIPS WITH THEIR STUDENTS AND IMPROVING LEARNING. THEY ARE COMMITTED TO CONTINUOUS IMPROVEMENT AND TO MAKING A DIFFERENCE**
 
 Yvana Jones Consulting helps teachers reflect on their teaching practice by identifying strengths and areas for development. This is achieved through professional development that provides practical, evidence-based strategies to maximise student learning. Professional development modules include:
 
