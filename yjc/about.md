@@ -8,13 +8,14 @@ Yvana Jones has over thirty years of highly successful experience in Australian 
 
 Yvana has extensive skills in leading complex, high profile reforms at school, state and national levels. She has led national and state reforms in leadership, curriculum, assessment, teaching and learning, and she builds strong partnerships and develops and leads high-performing teams and strong organisational cultures.
 
-<h4>Qualifications</h4>
+#### Qualifications
 *	???
 *	Accredited
-	*	Emotions and Behaviours at Work ([EBW](http://www.ebwonline.com/))
-*	Solutions-focused Level 3 Mentoring Coaching???
+	*	Emotions and Behaviours at Work ([EBW](http://www.ebwonline.com/)) Facilitator
+	*	Solutions-focused Mentoring Coach???
+	*	Level 3 Growth Coach???
 
-<h4>Experience</h4>
+#### Experience
 *	Director, Yvana Jones Consulting
 *	Assistant Director-General, Teaching & Learning, Education Queensland
 *	Deputy Director, Teaching and Learning, Queensland Studies Authority
