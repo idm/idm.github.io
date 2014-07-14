@@ -9,7 +9,9 @@ Yvana Jones has over thirty years of highly successful experience in Australian 
 Yvana has extensive skills in leading complex, high profile reforms at school, state and national levels. She builds strong partnerships and develops and leads high-performing teams and strong organisational cultures.
 
 <h4>Qualifications</h4>
-???
+*	???
+*	Accredited Facilitator, Emotions and Behaviours at Work ([EBW](http://www.ebwonline.com/))
+*	Solutions-focused Level 3 Mentoring Coaching???
 
 <h4>Experience</h4>
 *	Director, Yvana Jones Consulting
