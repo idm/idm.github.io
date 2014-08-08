@@ -16,8 +16,8 @@ Yvana has extensive skills in leading complex, high profile reforms at school, s
 *	Diploma in Teaching
 *	Accredited
 	*	Emotions and Behaviours at Work ([EBW](http://www.ebwonline.com/)) Facilitator
-	*	Solutions-focused Mentoring Coach???
-	*	Level 3 Growth Coach???
+	*	Solutions-focused Mentoring Coach
+	*	Level 3 Growth Coach
 
 #### Experience
 *	Director, Yvana Jones Consulting
