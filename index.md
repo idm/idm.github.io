@@ -2,4 +2,4 @@
 layout: default
 title: IDM
 ---
-# idm.github.io
+# IDM.GITHUB.IO
